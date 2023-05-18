@@ -54,6 +54,8 @@ Now, let's upload the code to the Arduino Nano 33 BLE Sense:
 
 Congratulations! You have successfully written a simple code to blink the onboard LED of the Arduino Nano 33 BLE Sense.
 
+<img src="[https://3.bp.blogspot.com/-7pcmbMVljr8/XNV3lTwW0NI/AAAAAAAAB2A/3j9EWjEKIhkM-EN5eRJvIN2s6xnrr3bvACLcBGAs/s640/Potentiometer%2Bterminals.png](https://th.bing.com/th/id/R.d9a6e5f234473fa5710e339656c936e2?rik=BPzFTsh3%2b14HKw&pid=ImgRaw&r=0) =">
+
 ## Conclusion
 In this tutorial, we covered the basics of the Arduino Nano 33 BLE Sense board and demonstrated how to blink the onboard LED using a simple code. This is just the beginning, and the Arduino Nano 33 BLE Sense offers a wide range of capabilities with its onboard sensors and BLE connectivity. Feel free to explore the official Arduino documentation and libraries to discover more features and possibilities for your projects.
 
